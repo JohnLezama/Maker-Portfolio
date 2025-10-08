@@ -1,5 +1,5 @@
 
-![Demo](assets/PencilPrinter1 (2).gif)
+![Demo](Assets/PencilPrinter1.gif)
 
 
 
