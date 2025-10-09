@@ -4,7 +4,7 @@ Name : John Lezama
 
 I am a Senior in Tomball High School eager to deepen my skills in engineering and research to solve real world problems.
 
-## Highlight Project:
+## Highlight Projects:
 
 ### Elecotromyography Controlled Prosthetic Arm
 Date: October, 2023 - Febuary, 2024
@@ -24,6 +24,16 @@ Early sketches of the Hand and Wrist:
 
 
 Skills: Designing (AutoDesk Inventor), 3D-printing Assembly, Arduino Programming, Soldering, Electronics, Neuro-control
+
+### Carbon Capture Rearch Project
+Date: October, 2024 - today
+
+Wanting to expand my horizons past mechanical and electrical engineering, I decided to pursue research for my 11th grade Science Fair Project. Using Grand Canonical Monte Carlo Simulations and online databases, I generated different zeolites - a mineral that serves as a filter in Carbon Capture technology - and simulated their performance in capturing CO2. I ran many different configurations, until I discovered multiple promising zeolites that computationally beat current industry standards, potentially reducing carbon capture costs and encouraging its implementation globally. I'm currently working on publishing a research paper for my work that can be found on this PDF. 
+
+Here is my Science Fair trifold:
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/ReConnectedPainted.jpeg" width="250">
+
+
 
 ## Key Arduino Projects:
 
@@ -127,25 +137,16 @@ Key Skills:
 ### BlueSKY - Paid Intern
 Date: June, 2025 - August, 2025
 
-Key Skills:
+I worked as a paid intern at local industrial air filtering company throughout the summer of 2025. I performed various tasks such as conducting air flow experiments on this machine!
+
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/InternshipExperiment.jpeg" width="500">
+
+I also wired multiple of their machines when demand for products was high and used my CAD skills to create drawings for their customers.
+
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/InternshipCAD.jpeg" width="500">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Key Skills: Active Listening, Design (Alibre), Physics, Electronics, and Prototyping
 
 
 
