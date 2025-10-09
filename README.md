@@ -4,10 +4,16 @@ Name : John Lezama
 
 I’m a senior at Tomball High School passionate about mechanical design, robotics, and programming. Through hands-on engineering and research, I aspire to develop my skills to contribute to a better future.
 
+## Table of Contents
+- [Highlight Projects](#highlight-projects)
+- [Key Arduino Projects](#key-arduino-projects)
+- [Other Experience](#other-experience)
+- [Reflection](#reflection)
+
 ## Highlight Projects:
 
 ### Electromyography Controlled Prosthetic Arm
-Date: October, 2023 - Febuary, 2024
+Date: October, 2023 - February, 2024
 
 I developed an EMG-controlled motorized prosthetic arm for my 10th Grade Science Fair Project using DC motors, various mechanisms and H-Bridge motor drivers. I created it under $300 with the goal of making upper limb prosthetics more economically accessible for amputees.
 
@@ -36,6 +42,8 @@ Here is my Science Fair trifold:
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/11thGradeScienceFairTrifold.jpg" width="800">
 
 Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computational Chemistry
+
+[⬆ Back to Top](#my-maker-portfolio)
 
 ## Key Arduino Projects:
 
@@ -75,7 +83,7 @@ Designed and 3D-printed robotic arm with 3 DOF using 2 stepper motors, a servo m
  ### 4. FLL Robotics Project
 Date: 2022
 
-My middle school's FLL Robotics team needed help with their Innovative Project - an international competition where teams build a solution for a problem of their choice. While I was not a part of the team (I'm not a fan of legos) I was interested in helping them and they knew my capabilities with design, 3D-printing, and electronics. They wanted to automate package deliveries through essentially a vending machine that would select and drop packages off. I built a 2 x 3 feet wooden structure with 3 stepper motors that translated an electromagnet along the X, Y, and Z-axis to place packages into slots and also grab and deposit them.
+My middle school's FLL Robotics team needed help with their Innovative Project - an international competition where teams built a solution for a problem of their choice. While I was not a part of the team (I'm not a fan of legos) I was interested in helping them and they knew my capabilities with design, 3D-printing, and electronics. They wanted to automate package deliveries through essentially a vending machine that would select and drop packages off. I built a 2 x 3 feet wooden structure with 3 stepper motors that translated an electromagnet along the X, Y, and Z-axis to place packages into slots and also grab and deposit them.
 
 ![Demo](Assets/8thGradeRobotics1.gif) ![Demo](Assets/8thGradeRobotics2.gif)   
 
@@ -86,7 +94,7 @@ Skills: Designing (TinkerCAD), 3D-printing, Wood Working, Arduino Programming, S
  ### 5. Life-Sized car
 Date: 2022
 
-I always had a fascination with the Batmobile, I knew if I could build my own life sized car making it remote controllable and strapping it with rapid fire nerf guns would be relatively easy. I also had a wood working phase during middle school and was eager to apply my skills in a project.
+I always had a fascination with the Batmobile, I knew if I built my own life sized car making it remote controllable and strapping it with rapid fire nerf guns would be relatively easy. I also had a wood working phase during middle school and was eager to apply my skills in a project.
 
 ![Demo](Assets/Car.gif)
 
@@ -95,7 +103,7 @@ Skills: Designing (TinkerCAD), 3D-printing, Arduino Programming, Electronics, Wo
 ### 6. ReConnected - A Medication Adherence System 
 Date: 2023
 
-For my 9th grade Science Fair, I partnered with another student who had experience building software applications. I designed and built the physical pill dispensing product, while he designed an app that wirelessly connected to the product and utilized positive reinforcement techniques to increae medication adherence in seniors.
+For my 9th grade Science Fair, I partnered with another student who had experience building software applications. I designed and built the physical pill dispensing product, while he designed an app that wirelessly connected to the product and utilized positive reinforcement techniques to increase medication adherence in seniors.
 
 Pill Dispenser Images: 
 
@@ -110,11 +118,13 @@ Skills: Teamwork, Designing (TinkerCAD), 3D-Printing and Assembly, Painting, Blu
 ### 7. Trash-collecting Boat
 Date: 2024
 
-I would often walk around my neighborhood with my grandfather and brother. My favorite part of the walk was when we would stop by a nearby pond and throw stones. When I began noticing trash floating on the pond, mainly empty water bottles, I decided to use my skills to attempt a solution. Using 2 water-proof motors, an Arduino, a transciever, and a LiPo battery, I build a remote controlled boat with a compartment to scoop up plastic water bottles.
+I would often walk around my neighborhood with my grandfather and brother. My favorite part of the walk was when we would stop by a nearby pond and throw stones. When I began noticing trash floating on the pond, mainly empty water bottles, I decided to use my skills to attempt a solution. Using 2 water-proof motors, an Arduino, a transceiver, and a LiPo battery, I built a remote controlled boat with a compartment to scoop up plastic water bottles.
 
 ![Demo](Assets/Boat.gif)
 
 Skills: Designing (OnShape), 3D-printing, Arduino Programming, Electronics, and Prototyping
+
+[⬆ Back to Top](#my-maker-portfolio)
 
 ## Other Experience:
 
@@ -122,7 +132,7 @@ Skills: Designing (OnShape), 3D-printing, Arduino Programming, Electronics, and 
 Date: 2024-2025 Season
 
 As the Mechanical Lead for my High School's FRC Robotics team I held several key responsibilities:
-* I helped build a large part of the prototyping and assemmbly of the competition robot 
+* I helped build a large part of the prototyping and assembly of the competition robot 
 * Prepared and presented mechanical lessons for the new members.
 * Led over 30 members in the construction of the field elements. 
 
@@ -133,7 +143,7 @@ Skills: Leadership, Machining, Assembling, and Prototyping
 ### Learn@STEM - Co-Founder
 Date: October, 2024 - May, 2025
 
-Adressing the lack of STEM clubs at my local middle school and wanting to inspire younger students in STEM, I prepared and presenting advanced STEM activities for sixth graders. 
+Addressing the lack of STEM clubs at my local middle school and wanting to inspire younger students in STEM, I prepared and presenting advanced STEM activities for sixth graders. 
 
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMPaperBridge.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMScale.jpeg" width="250">
 
@@ -156,5 +166,10 @@ This internship gave me professional experience with Engineering and teamwork. I
 
 Skills: Active Listening, Design (Alibre), Physics, Electronics, and Prototyping
 
-** Reflection
+[⬆ Back to Top](#my-maker-portfolio)
+
+## Reflection
+
 From a very young age I've been very inspired to grow my knowledge in engineering, programming, science, and research. Through various projects I've developed skills in CAD, assembly, machining, fabrication, teamwork, leadership, programming, computational simulations, reseach, electronics, and problem solving. My goal is to pursue a major that blends hardware and software, where I can continue to push myself to the limit and utilize my passion for impactful innovations. 
+
+[⬆ Back to Top](#my-maker-portfolio)
