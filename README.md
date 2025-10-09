@@ -28,12 +28,14 @@ Skills: Designing (AutoDesk Inventor), 3D-printing Assembly, Arduino Programming
 ### Carbon Capture Rearch Project
 Date: October, 2024 - today
 
-Wanting to expand my horizons past mechanical and electrical engineering, I decided to pursue research for my 11th grade Science Fair Project. Using Grand Canonical Monte Carlo Simulations and online databases, I generated different zeolites - a mineral that serves as a filter in Carbon Capture technology - and simulated their performance in capturing CO2. I ran many different configurations, until I discovered multiple promising zeolites that computationally beat current industry standards, potentially reducing carbon capture costs and encouraging its implementation globally. I'm currently working on publishing a research paper for my work that can be found on this PDF. 
+Wanting to expand my horizons past mechanical and electrical engineering, I decided to pursue research for my 11th grade Science Fair Project. Using Grand Canonical Monte Carlo Simulations and online databases, I generated different zeolites - a mineral that serves as a filter in Carbon Capture technology - and simulated their performance in capturing CO2. I ran many different configurations, until I discovered multiple promising zeolites that computationally beat current industry standards, potentially reducing carbon capture costs and encouraging its implementation globally. 
+
+I'm currently working on publishing a research paper for my work that can be found here ![](Assets/UtilizingGrandCanonicalMonteCarloSimulationstToDiscoverOptimalZeolitesInPostCombustionCarbonCapture.pdf). 
 
 Here is my Science Fair trifold:
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/11thGradeScienceFairTrifold.jpg" width="800">
 
-
+Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computational Chemistry
 
 ## Key Arduino Projects:
 
@@ -127,12 +129,16 @@ As the Mechanical Lead for my High School's FRC Robotics team I held several key
 ![Demo](Assets/FRCRoboticsVideo.gif)
 
 
-Key Skills: Leadership, Machining, Assembling, and Prototyping
+Skills: Leadership, Machining, Assembling, and Prototyping
 
 ### Learn@STEM - Co-Founder
 Date: October, 2024 - May, 2025
 
-Key Skills:
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMPaperBridge.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMScale.jpeg" width="250">
+
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMCarWorking.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMSGroupPic.jpeg" width="250">
+
+Skills: Leadership, Presentation, Instructions and Explaining, Design (OnShape), 3D-Printing, Electronics
 
 ### BlueSKY - Paid Intern
 Date: June, 2025 - August, 2025
@@ -146,14 +152,4 @@ I also wired multiple of their machines when demand for products was high and us
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/InternshipCAD.jpeg" width="500">
 
 
-Key Skills: Active Listening, Design (Alibre), Physics, Electronics, and Prototyping
-
-
-
-
-
-
-
-
-
-
+Skills: Active Listening, Design (Alibre), Physics, Electronics, and Prototyping
