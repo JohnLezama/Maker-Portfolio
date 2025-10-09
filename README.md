@@ -42,6 +42,8 @@ Skills: Designing (AutoDesk Inventor), 3D-printing Assembly, Arduino Programming
   2. Get the pixel locations for the edges and save those coordinates onto a micro SD card.
   3. Connect the micro SD card to the Arduino and calculate the steps each stepper motor needs to take to reach the coordinates.
   4. Plot the point with the pencil, controlled by a servo motor.
+
+ <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/IronManStickyNote.jpeg" width="500">
   
   ![Demo](Assets/PencilPrinter1.gif)
 
@@ -82,6 +84,12 @@ Skills: Designing (TinkerCAD), 3D-printing, Arduino Programming, Electronics, Wo
 Date: 2023
 
 For my 9th grade Science Fair, I partnered with another student who had experience building software applications. I designed and built the physical pill dispensing product, while he designed an app that wirelessly connected to the product and utilized positive reinforcement techniques to increae medication adherence in seniors.
+
+Pill Dispenser Images: 
+
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/ReConnectedPainted.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/ReConnectedPaintedFront.jpeg" width="250">
+
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/ReConnectedPatinedTop.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/ReConnectedPaintedBottom.jpeg" width="250">
 
 ![Demo](Assets/ReConnectedPillDispenser.gif)
 
