@@ -1,4 +1,25 @@
 
+# My Maker Portfolio
+Name : John Lezama
+
+I am a Senior in Tomball High School eager to deepen my skills in engineering and research to solve real world problems.
+
+## Elecotromyography Controlled Prosthetic Arm (10th Grade Science Fair)
+Date: October, 2023 - Febuary, 2024
+
+![Demo](Assets/ProstheticArm.gif)
+
+![Demo](Assets/ProstheticArmDECA.gif)
+
+![Demo](Assets/ForearmTestProstheticArm.gif)
+
+
+
+
+
+
+
+
 1st Project! (2018)
 
 ![Demo](Assets/1stProject.gif)
@@ -39,11 +60,7 @@ I wanted to put my 3D printing and programming skills to the test for my first S
 
 ![Demo](Assets/ReConnectedPillDispenser.gif)
 
-![Demo](Assets/ProstheticArm.gif)
 
-![Demo](Assets/ProstheticArmDECA.gif)
-
-![Demo](Assets/ForearmTestProstheticArm.gif)
 
 ![Demo](Assets/Boat.gif)
 
