@@ -1,5 +1,5 @@
 
-1st Project! (2022)
+1st Project! (2018)
 
 ![Demo](Assets/1stProject.gif)
 
@@ -20,11 +20,10 @@ Materials:
 * 2 9V Batteries
 * Pencil
 
-I wanted to put my 3D printing and programming skills to the test for my first Science Fair project. 
-The methodology goes as follows:
-1. Upload an image onto a python edge detection program and convert the image from color to black and white edges.
-2. Get the pixel locations for the edges and save those coordinates onto a micro SD card
-3. Connect the micro SD card to the Arduino and calculate the steps each stepper motor needs to take to reach the coordinate
+I wanted to put my 3D printing and programming skills to the test for my first Science Fair project. I created a CNC machine that would draw any image uploaded to it via micro SD-card, I achieved this through the following steps:
+1. Programming a Python edge detection program to convert colored images into outlined gray scale images.
+2. Get the pixel locations for the edges and save those coordinates onto a micro SD card.
+3. Connect the micro SD card to the Arduino and calculate the steps each stepper motor needs to take to reach the coordinates.
 4. Plot the point with the pencil, controlled by a servo motor.
 
 
