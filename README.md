@@ -38,7 +38,7 @@ Wanting to expand my horizons past engineering and produce a meaningful project 
 
 I'm currently working on publishing a research paper for my work that can be found [here](Assets/UtilizingGrandCanonicalMonteCarloSimulationstToDiscoverOptimalZeolitesInPostCombustionCarbonCapture.pdf). 
 
-Here is my Science Fair trifold:
+My Science Fair Trifold is shown below:
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/11thGradeScienceFairTrifold.jpg" width="800">
 
 Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computational Chemistry
@@ -53,6 +53,8 @@ Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computa
   My passion for motors and mechanisms began at a very young age. One of my very first projects was supplying power to a tiny DC motor to connect two magnets together.
   
   ![Demo](Assets/1stProject.gif)
+
+  ---
   
   ### 2. Pencil Printer
   Date: 2022
@@ -71,6 +73,8 @@ Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computa
 
   Skills: Designing (TinkerCAD), Arduino Programming, Python Programming, 3D-printing and Assembly
 
+---
+
 ### 3. Robotic Arm
 Date: 2022
 
@@ -79,6 +83,8 @@ Designed and 3D-printed robotic arm with 3 DOF using 2 stepper motors, a servo m
 ![Demo](Assets/RoboticArm.gif)
 
  Skills: Designing (TinkerCAD), 3D-printing, Arduino Programming
+
+---
 
  ### 4. FLL Robotics Project
 Date: 2022
@@ -91,6 +97,8 @@ My middle school's FLL Robotics team needed help with their Innovative Project -
 
 Skills: Designing (TinkerCAD), 3D-printing, Wood Working, Arduino Programming, Soldering, Electronics, and Prototyping
 
+---
+
  ### 5. Life-Sized car
 Date: 2022
 
@@ -99,6 +107,8 @@ I always had a fascination with the Batmobile, I knew if I built my own life siz
 ![Demo](Assets/Car.gif)
 
 Skills: Designing (TinkerCAD), 3D-printing, Arduino Programming, Electronics, Wood Working, and Prototyping
+
+---
 
 ### 6. ReConnected - A Medication Adherence System 
 Date: 2023
@@ -114,6 +124,8 @@ Pill Dispenser Images:
 ![Demo](Assets/ReConnectedPillDispenser.gif)
 
 Skills: Teamwork, Designing (TinkerCAD), 3D-Printing and Assembly, Painting, Bluetooth Interface
+
+---
 
 ### 7. Trash-collecting Boat
 Date: 2024
