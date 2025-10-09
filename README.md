@@ -56,7 +56,9 @@ Date: 2022
 
 My middle school's FLL Robotics team needed help with their Innovative Project - an international competition where teams build a solution for a problem of their choice. While I was not a part of the team (I'm not a fan of legos) I was interested in helping them and they knew my capabilities with design, 3D-printing, and electronics. They wanted to automate package deliveries through essentially a vending machine that would select and drop packages off. I built a 2 x 3 feet wooden structure with 3 stepper motors that translated an electromagnet along the X, Y, and Z-axis to place packages into slots and also grab and deposit them.
 
-![Demo](Assets/8thGradeRobotics1.gif)  ![Demo](Assets/8thGradeRobotics2.gif)   ![Demo](Assets/8thGradeRobotics2(1).gif)
+![Demo](Assets/8thGradeRobotics1.gif) ![Demo](Assets/8thGradeRobotics2.gif)   
+
+![Demo](Assets/8thGradeRobotics2(1).gif)
 
 Skills: Designing (TinkerCAD), 3D-printing, Wood Working, Arduino Programming, Soldering, Electronics, and Prototyping
 
