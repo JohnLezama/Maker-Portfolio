@@ -73,7 +73,7 @@ Skills: Designing (TinkerCAD), 3D-printing, Arduino Programming, Electronics, Wo
 ## 6. ReConnected - A Medication Adherence System 
 Date: 2023
 
-For my 9th grade Science Fair, I partnered with another student who had experience building software applications. I designed and built the physical pill dispensing product, while he would design an app that wirelessly connected to the product and utilized positive reinforcement techniques to increae medication adherence in seniors.
+For my 9th grade Science Fair, I partnered with another student who had experience building software applications. I designed and built the physical pill dispensing product, while he designed an app that wirelessly connected to the product and utilized positive reinforcement techniques to increae medication adherence in seniors.
 
 ![Demo](Assets/ReConnectedPillDispenser.gif)
 
@@ -82,15 +82,11 @@ Skills: Teamwork, Designing (TinkerCAD), 3D-Printing and Assembly, Painting, Blu
 ## 7. Trash-collecting Boat
 Date: 2024
 
-I always had a fascination with the Batmobile, I knew if I could build my own life sized car making it remote controllable and strapping it with rapid fire nerf guns would be relatively easy. I also had a wood working phase during middle school and was eager to apply my skills in a project.
+I would often walk around my neighborhood with my grandfather and brother. My favorite part of the walk was when we would stop by a nearby pond and throw stones. When I began noticing trash floating on the pond, mainly empty water bottles, I decided to use my skills to attempt a solution. Using 2 water-proof motors, an Arduino, a transciever, and a LiPo battery, I build a remote controlled boat with a compartment to scoop up plastic water bottles.
 
 ![Demo](Assets/Boat.gif)
 
-Skills: Designing (TinkerCAD), 3D-printing, Arduino Programming, Electronics, Wood Working, and Prototyping
-
-
-
-
+Skills: Designing (OnShape), 3D-printing, Arduino Programming, Electronics, and Prototyping
 
 ## FIRST Robotics - Mechanical Lead
 Date: 2024-2025 Season
@@ -101,7 +97,7 @@ As the Mechanical Lead for my High School's FRC Robotics team I held several key
 * Led over 30 members in the construction of the field elements. 
 (INSERT IMG + GIF HERE)
 
-Key Skills: Leadership, Machining, Prototyping
+Key Skills: Leadership, Machining, Assembling, and Prototyping
 
 
 
