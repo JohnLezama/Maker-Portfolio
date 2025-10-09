@@ -11,6 +11,10 @@ Date: October, 2023 - Febuary, 2024
 
 Developed a motorized prosthetic arm for my 10th Grade Science Fair Project using DC motors, various mechanisms and H-Bridge motor drivers. I then integrated EMG sensors and developed an alogorithm that converted those EMG signals into motor function. 
 
+![Img](Assets/Images/HandSketch.jpeg) ![Img](Assets/Images/HandSketch2.jpeg)
+
+![Img](Assets/Images/ElbowDownProsthetic.jpeg) ![Img](Assets/Images/UpperBodyWithIronManHelmet.jpeg)
+
 ![Demo](Assets/ProstheticArm.gif)       ![Demo](Assets/ForearmTestProstheticArm.gif)
 
 ![Demo](Assets/ProstheticArmDECA.gif)
