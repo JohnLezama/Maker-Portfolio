@@ -45,7 +45,7 @@ I wanted to put my 3D printing and programming skills to the test for my first S
 
 ![Demo](Assets/ForearmTestProstheticArm.gif)
 
-
+![Demo](Assets/Boat.gif)
 
 
 
