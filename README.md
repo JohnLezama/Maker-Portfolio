@@ -152,6 +152,8 @@ As the Mechanical Lead for my High School's FRC Robotics team I held several key
 
 Skills: Leadership, Machining, Assembling, and Prototyping
 
+---
+
 ### Learn@STEM - Co-Founder
 Date: October, 2024 - May, 2025
 
@@ -162,6 +164,8 @@ Addressing the lack of STEM clubs at my local middle school and wanting to inspi
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMCarWorking.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMSGroupPic.jpeg" width="250">
 
 Skills: Leadership, Presentation, Instructions and Explaining, Design (OnShape), 3D-Printing, Electronics
+
+---
 
 ### BlueSKY - Paid Intern
 Date: June, 2025 - August, 2025
