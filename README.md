@@ -2,7 +2,7 @@
 # My Maker Portfolio
 Name : John Lezama
 
-<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/HandSketch.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/HeadShot.jpeg" width="250">
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/HeadShot.jpeg" width="250">
 
 I’m a senior at Tomball High School passionate about mechanical design, robotics, and programming. Through hands-on engineering and research, I aspire to develop my skills to contribute to a better future.
 
