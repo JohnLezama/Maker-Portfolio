@@ -2,14 +2,14 @@
 # My Maker Portfolio
 Name : John Lezama
 
-I am a Senior in Tomball High School eager to deepen my skills in engineering and research to solve real world problems.
+I’m a senior at Tomball High School passionate about mechanical design, robotics, and programming. Through hands-on engineering and research, I aspire to develop my skills to contribute to a better future.
 
 ## Highlight Projects:
 
-### Elecotromyography Controlled Prosthetic Arm
+### Electromyography Controlled Prosthetic Arm
 Date: October, 2023 - Febuary, 2024
 
-Developed a motorized prosthetic arm for my 10th Grade Science Fair Project using DC motors, various mechanisms and H-Bridge motor drivers. I then integrated EMG sensors and developed an alogorithm that converted those EMG signals into motor function. 
+I developed an EMG-controlled motorized prosthetic arm for my 10th Grade Science Fair Project using DC motors, various mechanisms and H-Bridge motor drivers. I created it under $300 with the goal of making upper limb prosthetics more economically accessible for amputees.
 
 Early sketches of the Hand and Wrist:
 
@@ -25,10 +25,10 @@ Early sketches of the Hand and Wrist:
 
 Skills: Designing (AutoDesk Inventor), 3D-printing Assembly, Arduino Programming, Soldering, Electronics, Neuro-control
 
-### Carbon Capture Rearch Project
+### Carbon Capture Research Project
 Date: October, 2024 - today
 
-Wanting to expand my horizons past mechanical and electrical engineering, I decided to pursue research for my 11th grade Science Fair Project. Using Grand Canonical Monte Carlo Simulations and online databases, I generated different zeolites - a mineral that serves as a filter in Carbon Capture technology - and simulated their performance in capturing CO2. I ran many different configurations, until I discovered multiple promising zeolites that computationally beat current industry standards, potentially reducing carbon capture costs and encouraging its implementation globally. 
+Wanting to expand my horizons past engineering and produce a meaningful project regarding our increasingly worsening climate, I decided to pursue research for my 11th grade Science Fair Project. Using Grand Canonical Monte Carlo Simulations and online databases, I generated different zeolites - a mineral that serves as a filter in Carbon Capture technology - and simulated their performance in capturing CO2. I ran many different configurations, until I discovered multiple promising zeolites that computationally beat current industry standards, potentially reducing carbon capture costs and encouraging its implementation globally. 
 
 I'm currently working on publishing a research paper for my work that can be found [here](Assets/UtilizingGrandCanonicalMonteCarloSimulationstToDiscoverOptimalZeolitesInPostCombustionCarbonCapture.pdf). 
 
@@ -128,11 +128,12 @@ As the Mechanical Lead for my High School's FRC Robotics team I held several key
 
 ![Demo](Assets/FRCRoboticsVideo.gif)
 
-
 Skills: Leadership, Machining, Assembling, and Prototyping
 
 ### Learn@STEM - Co-Founder
 Date: October, 2024 - May, 2025
+
+Adressing the lack of STEM clubs at my local middle school and wanting to inspire younger students in STEM, I prepared and presenting advanced STEM activities for sixth graders. 
 
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMPaperBridge.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMScale.jpeg" width="250">
 
@@ -143,7 +144,7 @@ Skills: Leadership, Presentation, Instructions and Explaining, Design (OnShape),
 ### BlueSKY - Paid Intern
 Date: June, 2025 - August, 2025
 
-I worked as a paid intern at local industrial air filtering company throughout the summer of 2025. I performed various tasks such as conducting air flow experiments on this machine!
+I worked as a paid intern at local industrial air filtering company throughout the summer of 2025. I performed various tasks such as conducting air flow experiments on this machine! 
 
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/InternshipExperiment.jpeg" width="500">
 
@@ -151,5 +152,9 @@ I also wired multiple of their machines when demand for products was high and us
 
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/InternshipCAD.jpeg" width="500">
 
+This internship gave me professional experience with Engineering and teamwork. It also allowed for me to finesse my wiring and CAD capabilities while growing my knowledge with pneumatic systems on an industrial level.
 
 Skills: Active Listening, Design (Alibre), Physics, Electronics, and Prototyping
+
+** Reflection
+From a very young age I've been very inspired to grow my knowledge in engineering, programming, science, and research. Through various projects I've developed skills in CAD, assembly, machining, fabrication, teamwork, leadership, programming, computational simulations, reseach, electronics, and problem solving. My goal is to pursue a major that blends hardware and software, where I can continue to push myself to the limit and utilize my passion for impactful innovations. 
