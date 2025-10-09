@@ -101,7 +101,9 @@ As the Mechanical Lead for my High School's FRC Robotics team I held several key
 * I helped build a large part of the prototyping and assemmbly of the competition robot 
 * Prepared and presented mechanical lessons for the new members.
 * Led over 30 members in the construction of the field elements. 
-(INSERT IMG + GIF HERE)
+
+![Demo](Assets/FRCRoboticsVideo.gif)
+
 
 Key Skills: Leadership, Machining, Assembling, and Prototyping
 
