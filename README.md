@@ -31,7 +31,7 @@ Date: October, 2024 - today
 Wanting to expand my horizons past mechanical and electrical engineering, I decided to pursue research for my 11th grade Science Fair Project. Using Grand Canonical Monte Carlo Simulations and online databases, I generated different zeolites - a mineral that serves as a filter in Carbon Capture technology - and simulated their performance in capturing CO2. I ran many different configurations, until I discovered multiple promising zeolites that computationally beat current industry standards, potentially reducing carbon capture costs and encouraging its implementation globally. I'm currently working on publishing a research paper for my work that can be found on this PDF. 
 
 Here is my Science Fair trifold:
-<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/11thGradeScienceFairTrifold.pdf" width="500">
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/11thGradeScienceFairTrifold.jpg" width="800">
 
 
 
