@@ -23,6 +23,7 @@ Early sketches of the Hand and Wrist:
 
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/HandSketch.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/HandSketch2.jpeg" width="250">
 
+Other Images:
 
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/ElbowDownProsthetic.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/UpperBodyWithIronManHelmet.jpeg" width="250">
 
@@ -50,16 +51,18 @@ Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computa
 ## Key Arduino Projects:
 
   ### 1. First Project!
-  Date: 2018
+  Date: October, 2019
 
   My passion for motors and mechanisms began at a very young age. One of my very first projects was supplying power to a tiny DC motor to connect two magnets together.
   
   ![Demo](Assets/1stProject.gif)
 
+  Skills: Wiring, Motors
+
   ---
   
   ### 2. Pencil Printer
-  Date: 2022
+  Date: January, 2022
 
    I wanted to put my 3D printing and programming skills to the test for my first Science Fair project. I created a CNC machine that would draw any image uploaded to it via micro SD-card, I achieved this through the following steps:
   1. Programming a Python edge detection program to convert colored images into outlined gray scale images.
@@ -78,7 +81,7 @@ Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computa
 ---
 
 ### 3. Robotic Arm
-Date: 2022
+Date: April, 2022
 
 Designed and 3D-printed robotic arm with 3 DOF using 2 stepper motors, a servo motor, and an Arduino.
 
@@ -89,7 +92,7 @@ Designed and 3D-printed robotic arm with 3 DOF using 2 stepper motors, a servo m
 ---
 
  ### 4. FLL Robotics Project
-Date: 2022
+Date: May, 2022
 
 My middle school's FLL Robotics team needed help with their Innovative Project - an international competition where teams built a solution for a problem of their choice. While I was not a part of the team (I'm not a fan of legos) I was interested in helping them and they knew my capabilities with design, 3D-printing, and electronics. They wanted to automate package deliveries through essentially a vending machine that would select and drop packages off. I built a 2 x 3 feet wooden structure with 3 stepper motors that translated an electromagnet along the X, Y, and Z-axis to place packages into slots and also grab and deposit them.
 
@@ -102,7 +105,7 @@ Skills: Designing (TinkerCAD), 3D-printing, Wood Working, Arduino Programming, S
 ---
 
  ### 5. Life-Sized car
-Date: 2022
+Date: July, 2022
 
 I always had a fascination with the Batmobile, I knew if I built my own life sized car making it remote controllable and strapping it with rapid fire nerf guns would be relatively easy. I also had a wood working phase during middle school and was eager to apply my skills in a project.
 
@@ -113,7 +116,7 @@ Skills: Designing (TinkerCAD), 3D-printing, Arduino Programming, Electronics, Wo
 ---
 
 ### 6. ReConnected - A Medication Adherence System 
-Date: 2023
+Date: January, 2023
 
 For my 9th grade Science Fair, I partnered with another student who had experience building software applications. I designed and built the physical pill dispensing product, while he designed an app that wirelessly connected to the product and utilized positive reinforcement techniques to increase medication adherence in seniors.
 
@@ -130,7 +133,7 @@ Skills: Teamwork, Designing (TinkerCAD), 3D-Printing and Assembly, Painting, Blu
 ---
 
 ### 7. Trash-collecting Boat
-Date: 2024
+Date: July, 2024
 
 I would often walk around my neighborhood with my grandfather and brother. My favorite part of the walk was when we would stop by a nearby pond and throw stones. When I began noticing trash floating on the pond, mainly empty water bottles, I decided to use my skills to attempt a solution. Using 2 water-proof motors, an Arduino, a transceiver, and a LiPo battery, I built a remote controlled boat with a compartment to scoop up plastic water bottles.
 
@@ -172,7 +175,7 @@ Skills: Leadership, Presentation, Instructions and Explaining, Design (OnShape),
 ### BlueSKY - Paid Intern
 Date: June, 2025 - August, 2025
 
-I worked as a paid intern at local industrial air filtering company throughout the summer of 2025. I performed various tasks such as conducting air flow experiments on this machine! 
+I worked as a paid intern at local industrial air filtering company throughout the summer of 2025. I performed various tasks such as conducting air flow experiments on an industrial air filter machine shown below! 
 
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/InternshipExperiment.jpeg" width="500">
 
