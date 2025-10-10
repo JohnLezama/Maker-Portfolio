@@ -160,7 +160,7 @@ Skills: Leadership, Machining, Assembling, and Prototyping
 ---
 
 ### Learn@STEM - Co-Founder
-Date: October, 2024 - May, 2025
+Date: October, 2024 - Present
 
 Addressing the lack of STEM clubs at my local middle school and wanting to inspire younger students in STEM, I prepared and presenting advanced STEM activities for sixth graders. 
 
