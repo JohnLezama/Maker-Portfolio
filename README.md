@@ -166,7 +166,7 @@ Addressing the lack of STEM clubs at my local middle school and wanting to inspi
 
 <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMPaperBridge.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMScale.jpeg" width="250">
 
-<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMCarWorking.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMSGroupPic.jpeg" width="250">
+<img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMCarWorking.jpeg" width="250"> <img src="https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/Images/Learn@STEMGroupPic.jpeg" width="250">
 
 Skills: Leadership, Presentation, Instructions and Explaining, Design (OnShape), 3D-Printing, Electronics
 
