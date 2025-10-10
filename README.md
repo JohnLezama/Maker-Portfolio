@@ -35,7 +35,7 @@ Other Images:
 Skills: Designing (AutoDesk Inventor), 3D-printing Assembly, Arduino Programming, Soldering, Electronics, Neuro-control
 
 ### Carbon Capture Research Project
-Date: October, 2024 - present
+Date: October, 2024 - Present
 
 Wanting to expand my horizons past engineering and produce a meaningful project regarding our increasingly worsening climate, I decided to pursue research for my 11th grade Science Fair Project. Using Grand Canonical Monte Carlo Simulations and online databases, I generated different zeolites - a mineral that serves as a filter in Carbon Capture technology - and simulated their performance in capturing CO2. I ran many different configurations, until I discovered multiple promising zeolites that computationally beat current industry standards, potentially reducing carbon capture costs and encouraging its implementation globally. 
 
@@ -51,7 +51,7 @@ Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computa
 ## Key Arduino Projects:
 
 ### 1. Trash-collecting Boat
-Date: July, 2024 (15 years old)
+Date: July, 2024
 
 I would often walk around my neighborhood with my grandfather and brother. My favorite part of the walk was when we would stop by a nearby pond and throw stones. When I began noticing trash floating on the pond, mainly empty water bottles, I decided to use my skills to attempt a solution. Using 2 water-proof motors, an Arduino, a transceiver, and a LiPo battery, I built a remote controlled boat with a compartment to scoop up plastic water bottles.
 
@@ -146,7 +146,7 @@ My passion for motors and mechanisms began at a very young age. One of my very f
 ## Other Experience:
 
 ### FIRST Robotics - Mechanical Lead
-Date: 2024-2025 Season
+Date: September, 2024 - May, 2025
 
 As the Mechanical Lead for my High School's FRC Robotics team I held several key responsibilities:
 * I helped build a large part of the prototyping and assembly of the competition robot 
