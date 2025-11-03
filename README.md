@@ -16,6 +16,7 @@ I’m a senior at Tomball High School, with a passion for mechanical design, rob
 
 ### Electromyography Controlled Prosthetic Arm
 Date: October, 2023 - February, 2024
+[Repository](https://github.com/JohnLezama/EMG-Controlled-Prosthetic-Arm) 
 
 I developed an EMG-controlled motorized prosthetic arm for my 10th Grade Science Fair Project using DC motors, various mechanisms, and H-Bridge motor drivers. I created it under $300 with the goal of making upper limb prosthetics more economically accessible for amputees.
 
