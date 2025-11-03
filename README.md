@@ -15,7 +15,7 @@ I’m a senior at Tomball High School, with a passion for mechanical design, rob
 ## Highlight Projects:
 
 ### Electromyography Controlled Prosthetic Arm 
-### Repository [HERE](https://github.com/JohnLezama/EMG-Controlled-Prosthetic-Arm) 
+### [Repository Here](https://github.com/JohnLezama/EMG-Controlled-Prosthetic-Arm) 
 Date: October, 2023 - February, 2024
 
 I developed an EMG-controlled motorized prosthetic arm for my 10th Grade Science Fair Project using DC motors, various mechanisms, and H-Bridge motor drivers. I created it under $300 with the goal of making upper limb prosthetics more economically accessible for amputees.
@@ -52,6 +52,7 @@ Skills: Research, Monte Carlo Simulations, LAMMPS, Data Analysis, Excel, Computa
 ## Key Arduino Projects:
 
 ### 1. Trash-collecting Boat
+### [Repository Here](https://github.com/JohnLezama/Trash-Collecting-Boat) 
 Date: July, 2024
 
 I would often walk around my neighborhood with my grandfather and brother. My favorite part of the walk was when we would stop by a nearby pond and throw stones. When I began noticing trash floating on the pond, mainly empty water bottles, I decided to use my skills to attempt a solution. Using 2 waterproof motors, an Arduino, a transceiver, and a LiPo battery, I built a remote-controlled boat with a compartment to scoop up plastic water bottles.
@@ -63,6 +64,7 @@ Skills: Designing (OnShape), 3D-printing, Arduino Programming, Electronics, and 
 ---
 
 ### 2. ReConnected - A Medication Adherence System 
+### [Repository Here](https://github.com/JohnLezama/ReConnectedMedicationAdherenceSystem) 
 Date: January, 2023
 
 For my 9th-grade Science Fair, I partnered with another student who had experience building software applications. I designed and built the physical pill dispensing product, while he designed an app that wirelessly connected to the product and utilized positive reinforcement techniques to increase medication adherence in seniors.
@@ -91,6 +93,7 @@ Skills: Designing (TinkerCAD), 3D-printing, Arduino Programming, Electronics, Wo
 ---
 
 ### 4. FLL Robotics Project
+### [Repository Here](https://github.com/JohnLezama/FLL-Vending-Machine) 
 Date: May, 2022
 
 My middle school's FLL Robotics team needed help with their Innovative Project - an international competition where teams built a solution for a problem of their choice. While I was not a part of the team (I'm not a fan of LEGO), I was interested in helping them, and they knew my capabilities with design, 3D printing, and electronics. They wanted to automate package deliveries through essentially a vending machine that would select and drop packages off. I built a 2 x 3 feet wooden structure with 3 stepper motors that translated an electromagnet along the X, Y, and Z-axis to place packages into slots and also grab and deposit them.
@@ -115,6 +118,7 @@ Designed and 3D-printed robotic arm with 3 DOF using 2 stepper motors, a servo m
 ---
 
 ### 6. Pencil Printer
+### [Repository Here](https://github.com/JohnLezama/Pencil-Printer) 
 Date: January, 2022
 
 I wanted to put my 3D printing and programming skills to the test for my first Science Fair project. I created a CNC machine that would draw any image uploaded to it via a micro SD card. I achieved this through the following steps:
