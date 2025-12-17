@@ -36,7 +36,7 @@ Other Images:
 Skills: Designing (AutoDesk Inventor), 3D-printing Assembly, Arduino Programming, Soldering, Electronics, Neuro-control
 
 ### Carbon Capture Research Project
-### [Published in the National High School Journal of Science, Click Here to See]([Assets/UtilizingGrandCanonicalMonteCarloSimulationstToDiscoverOptimalZeolitesInPostCombustionCarbonCapture.pdf](https://nhsjs.com/2025/utilizing-grand-canonical-monte-carlo-simulations-to-discover-optimal-zeolites-in-post-combustion-carbon-capture/))
+### [Published in the National High School Journal of Science, Click Here to See](https://nhsjs.com/2025/utilizing-grand-canonical-monte-carlo-simulations-to-discover-optimal-zeolites-in-post-combustion-carbon-capture/)
 Date: October, 2024 - Present
 
 Wanting to expand my horizons past engineering and produce a meaningful project regarding our increasingly worsening climate, I decided to pursue research for my 11th grade Science Fair Project. Using Grand Canonical Monte Carlo Simulations and online databases, I generated different zeolites - a mineral that serves as a filter in Carbon Capture technology - and simulated their performance in capturing CO2. I ran many different configurations until I discovered multiple promising zeolites that computationally beat current industry standards, potentially reducing carbon capture costs and encouraging its implementation globally.
