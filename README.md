@@ -27,7 +27,7 @@ I enjoy taking projects through the complete engineering process. From research,
 
 **Outcome:** Produced a functional wearable prototype that acquires and displays four simultaneous EMG channels with observable responses to hand and finger movements.
 
-<!-- Add: Real-time four-channel EMG video and PCB image -->
+https://github.com/user-attachments/assets/b025411b-7611-4da0-8478-ce82f77846c4
 
 [View Project Repository](PROJECT_URL)
 
