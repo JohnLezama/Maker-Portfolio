@@ -78,7 +78,7 @@ The study was published in the *National High School Journal of Science* and has
 
 <!-- Add: Results figure or cropped results section -->
 
-[Read the Published Study](PUBLICATION_URL) · [View Project Repository](PROJECT_URL)
+[Read the Published Study](https://nhsjs.com/2025/utilizing-grand-canonical-monte-carlo-simulations-to-discover-optimal-zeolites-in-post-combustion-carbon-capture/) · [View Project Repository](PROJECT_URL)
 
 ---
 
