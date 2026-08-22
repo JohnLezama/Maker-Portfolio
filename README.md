@@ -50,7 +50,9 @@ https://github.com/user-attachments/assets/b025411b-7611-4da0-8478-ce82f77846c4
 
 **Outcome:** Completed a 6.11-pound prototype for $373.97. The prosthesis incorporated five arm degrees of freedom and five independently articulated fingers. The hand could hold a 7.5-pound dumbbell, while the arm could perform a 4-pound bicep curl and a 4-pound lateral raise.
 
-<!-- Add: General-motion and EMG-controlled power-grip video -->
+<img width="320" height="600" alt="ProstheticArm" src="https://github.com/user-attachments/assets/a1e0ff1e-4427-426a-b407-3298f779a4cb" />
+ ![Demo](https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/ForearmTestProstheticArm.gif)
+
 
 [View Project Repository](PROJECT_URL)
 
