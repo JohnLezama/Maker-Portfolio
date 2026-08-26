@@ -76,9 +76,9 @@ https://github.com/user-attachments/assets/b025411b-7611-4da0-8478-ce82f77846c4
 
 The study was published in the *National High School Journal of Science* and has received more than 1,000 article views.
 
-<!-- Add: Results figure or cropped results section -->
+<img width="741" height="460" alt="Factory (3)" src="https://github.com/user-attachments/assets/6c98c8ea-a072-41f0-af6a-ba22815c7ecb" />
 
-[Read the Published Study](https://nhsjs.com/2025/utilizing-grand-canonical-monte-carlo-simulations-to-discover-optimal-zeolites-in-post-combustion-carbon-capture/) · [View Project Repository](PROJECT_URL)
+[Read the Published Study](https://nhsjs.com/2025/utilizing-grand-canonical-monte-carlo-simulations-to-discover-optimal-zeolites-in-post-combustion-carbon-capture/) · [View Project Repository](https://github.com/JohnLezama/Zeolite-CarbonCapture-DLMONTE-GCMC)
 
 ---
 
@@ -98,9 +98,11 @@ The study was published in the *National High School Journal of Science* and has
 
 **Outcome:** Successfully converted digital images into physical pencil drawings. The complete workflow was demonstrated using an Iron Man mask image, progressing from the original image and processed edge map to the machine drawing the final result.
 
-<!-- Add: Original image → processed edge map → drawing timelapse → finished drawing -->
+<img width="1168" height="429" alt="Factory (4)" src="https://github.com/user-attachments/assets/39a3ca1e-822b-4443-b983-933fa6c16df0" />
 
-[View Project Repository](PROJECT_URL)
+https://github.com/user-attachments/assets/4c2e4fac-3f66-4949-937e-2c24dc55613f
+
+[View Project Repository](https://github.com/JohnLezama/Pencil-Printer)
 
 ---
 
@@ -119,7 +121,9 @@ The study was published in the *National High School Journal of Science* and has
 
 **Outcome:** Completed the physical dispenser and a companion web-application prototype. The application was designed to create medication schedules, issue dispenser commands, and incorporate positive-reinforcement features. The project did not include end-to-end or user testing, so no conclusions were made about its effect on medication adherence.
 
-<!-- Add: Video of the dispensing mechanism -->
+https://github.com/user-attachments/assets/9cee2c79-c3f2-4973-993c-8c84efa423a1
+
+<img width="2023" height="2638" alt="ReConnectedPaintedFront" src="https://github.com/user-attachments/assets/42c49506-bc69-4a7a-b20a-0543ec9a7895" />
 
 [View Project Details](PROJECT_URL)
 
@@ -135,9 +139,9 @@ The study was published in the *National High School Journal of Science* and has
 
 **Result:** Produced a functional prototype that could navigate through water and scoop floating plastic bottles.
 
-<!-- Add: GIF or video of the boat moving and collecting bottles -->
+https://github.com/user-attachments/assets/93c1e052-9ad0-4e6e-b063-058faae1329d
 
-[View Project Details](PROJECT_URL)
+[View Project Details](https://github.com/JohnLezama/Trash-Collecting-Boat)
 
 ---
 
@@ -147,11 +151,9 @@ The study was published in the *National High School Journal of Science* and has
 
 **Skills:** Woodworking, CAD, mechanical assembly, power systems
 
-**Result:** Completed a functional full-scale prototype capable of driving under its own power and remote control. The prototype was not capable of carrying a person.
+**Result:** Completed a functional full-scale prototype capable of driving under its own power. The prototype was not capable of carrying a person.
 
-<!-- Add: GIF or video of the car driving -->
-
-[View Project Details](PROJECT_URL)
+https://github.com/user-attachments/assets/d63cb4ca-130d-49da-926a-982f8514ed84
 
 ---
 
@@ -163,9 +165,9 @@ The study was published in the *National High School Journal of Science* and has
 
 **Result:** Built a roughly 2 × 3-foot machine that translated an electromagnet along the X, Y, and Z axes to retrieve packages and place them into designated slots.
 
-<!-- Add: GIF or video of the machine operating -->
+https://github.com/user-attachments/assets/77bdb475-3c6f-4ce0-a8df-7771de9a3594
 
-[View Project Details](PROJECT_URL)
+[View Project Details](https://github.com/JohnLezama/Automated-Package-Handling-System)
 
 ---
 
@@ -181,8 +183,6 @@ The study was published in the *National High School Journal of Science* and has
 
 **Skills:** Leadership, machining, assembly, prototyping
 
-<!-- Add: GIF or video of the competition robot -->
-
 ---
 
 ### Learn@STEM — Founder
@@ -194,8 +194,6 @@ The study was published in the *National High School Journal of Science* and has
 - Introduced students to CAD, programming, 3D printing, electronics, and Arduino.
 
 **Skills:** Leadership, presentation, instruction, Onshape, 3D printing, electronics
-
-<!-- Add: Images from Learn@STEM activities -->
 
 ---
 
@@ -209,8 +207,6 @@ The study was published in the *National High School Journal of Science* and has
 - Gained experience with industrial pneumatics, production work, and engineering collaboration.
 
 **Skills:** Active listening, CAD with Alibre, electronics, prototyping
-
-<!-- Add: Images from the internship -->
 
 ---
 
