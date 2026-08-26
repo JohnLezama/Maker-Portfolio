@@ -29,7 +29,7 @@ I enjoy taking projects through the complete engineering process. From research,
 
 https://github.com/user-attachments/assets/b025411b-7611-4da0-8478-ce82f77846c4
 
-[View Project Repository](PROJECT_URL)
+[View Project Repository](https://github.com/JohnLezama/Four-Channel-EMG-Wearable-Forearm-Brace)
 
 ---
 
@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/b025411b-7611-4da0-8478-ce82f77846c4
 <img width="320" height="600" alt="ProstheticArm" src="https://github.com/user-attachments/assets/a1e0ff1e-4427-426a-b407-3298f779a4cb" />    ![Demo](https://github.com/JohnLezama/Maker-Portfolio/blob/main/Assets/ForearmTestProstheticArm.gif)
 
 
-[View Project Repository](PROJECT_URL)
+[View Project Repository](https://github.com/JohnLezama/EMG-Controlled-Prosthetic-Arm)
 
 ---
 
@@ -98,7 +98,7 @@ The study was published in the *National High School Journal of Science* and has
 
 **Outcome:** Successfully converted digital images into physical pencil drawings. The complete workflow was demonstrated using an Iron Man mask image, progressing from the original image and processed edge map to the machine drawing the final result.
 
-<img width="1168" height="429" alt="Factory (4)" src="https://github.com/user-attachments/assets/39a3ca1e-822b-4443-b983-933fa6c16df0" />
+<img width="800" alt="Factory (4)" src="https://github.com/user-attachments/assets/39a3ca1e-822b-4443-b983-933fa6c16df0" />
 
 https://github.com/user-attachments/assets/4c2e4fac-3f66-4949-937e-2c24dc55613f
 
@@ -123,9 +123,9 @@ https://github.com/user-attachments/assets/4c2e4fac-3f66-4949-937e-2c24dc55613f
 
 https://github.com/user-attachments/assets/9cee2c79-c3f2-4973-993c-8c84efa423a1
 
-<img width="2023" height="2638" alt="ReConnectedPaintedFront" src="https://github.com/user-attachments/assets/42c49506-bc69-4a7a-b20a-0543ec9a7895" />
+<img width="500" alt="ReConnectedPaintedFront" src="https://github.com/user-attachments/assets/42c49506-bc69-4a7a-b20a-0543ec9a7895" />
 
-[View Project Details](PROJECT_URL)
+[View Project Details](https://github.com/JohnLezama/ReConnectedMedicationAdherenceSystem)
 
 ---
 
