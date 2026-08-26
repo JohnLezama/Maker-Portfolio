@@ -183,6 +183,8 @@ https://github.com/user-attachments/assets/77bdb475-3c6f-4ce0-a8df-7771de9a3594
 
 **Skills:** Leadership, machining, assembly, prototyping
 
+https://github.com/user-attachments/assets/2ee306f5-eb62-439e-98b0-64d361bbf9c6
+
 ---
 
 ### Learn@STEM — Founder
@@ -207,6 +209,9 @@ https://github.com/user-attachments/assets/77bdb475-3c6f-4ce0-a8df-7771de9a3594
 - Gained experience with industrial pneumatics, production work, and engineering collaboration.
 
 **Skills:** Active listening, CAD with Alibre, electronics, prototyping
+
+<img width="500" alt="InternshipCAD" src="https://github.com/user-attachments/assets/97d3e8bd-15e1-47c2-9fda-7aaf7210ec89" /> <img width="500" alt="InternshipExperiment" src="https://github.com/user-attachments/assets/55e55bbf-80c4-4e13-9748-619028e8207b" />
+
 
 ---
 
