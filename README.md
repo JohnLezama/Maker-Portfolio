@@ -2,7 +2,7 @@
 
 ## About
 
-I’m John Lezama, an incoming Electrical and Computer Engineering student at The University of Texas at Austin and a member of the Robotics Honors and Engineering Honors programs.
+I’m John Lezama, a first-year Electrical and Computer Engineering student at The University of Texas at Austin and a member of the Robotics Honors and Engineering Honors programs.
 
 I enjoy taking projects through the complete engineering process. From research, simulation, and CAD to PCB design, fabrication, programming, and physical testing. I’m looking forward to collaborating with ambitious individuals and developing technology with measurable real-world impact.
 
@@ -72,11 +72,11 @@ https://github.com/user-attachments/assets/b025411b-7611-4da0-8478-ce82f77846c4
 - Generated 81 zeolite configurations across nine frameworks and nine silicon-to-aluminum ratios.
 - Analyzed adsorption capacity, CO₂/N₂ selectivity, working capacity, and heat of adsorption to identify the strongest candidates.
 
-**Outcome:** Among the frameworks tested, Na-RWY and Na-JSR zeolites with Si/Al ratios of 1.0 outperformed industry-standard zeolites. Na-RWY achieved the highest adsorption and working capacities at 6.97 mmol/g and 5.54 mmol/g, respectively. Na-JSR also performed strongly, reaching 5.48 mmol/g and 2.90 mmol/g.
+**Outcome:** Across all tested configurations, Na-RWY achieved the highest observed CO₂ adsorption and working capacities at 6.97 mmol/g and 5.54 mmol/g, respectively. Na-JSR ranked second in peak CO₂ adsorption at 5.48 mmol/g and reached a maximum working capacity of 3.75 mmol/g.
 
 The study was published in the *National High School Journal of Science* and has received more than 1,000 article views.
 
-<img width="741" height="460" alt="Factory (3)" src="https://github.com/user-attachments/assets/6c98c8ea-a072-41f0-af6a-ba22815c7ecb" />
+<img width="741" height="460" alt="Simulated zeolite performance across tested Si/Al ratios" src="https://github.com/user-attachments/assets/6c98c8ea-a072-41f0-af6a-ba22815c7ecb" />
 
 [Read the Published Study](https://nhsjs.com/2025/utilizing-grand-canonical-monte-carlo-simulations-to-discover-optimal-zeolites-in-post-combustion-carbon-capture/) · [View Project Repository](https://github.com/JohnLezama/Zeolite-CarbonCapture-DLMONTE-GCMC)
 
@@ -215,8 +215,7 @@ https://github.com/user-attachments/assets/2ee306f5-eb62-439e-98b0-64d361bbf9c6
 
 ---
 
-## Reflection
+## Contact
 
-I enjoy building systems at the intersection of hardware and software, particularly in assistive technology, robotics, and scientific research. These projects have taught me how to move from research and simulation through CAD, fabrication, testing, and iteration. I am excited to bring that experience to ambitious interdisciplinary teams and continue developing technology with measurable real-world impact.
-
+[LinkedIn](www.linkedin.com/in/john-lezama-922343424)
 
